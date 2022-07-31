@@ -1,0 +1,45 @@
+.content-calci-card{
+    background-color: black !important;
+    margin: 20px;
+}
+.content-claci-input{
+    width: 360px;
+    background-color: black;
+    color: #fff;
+    font-size: 40px;
+    font-weight: 500;
+    border: none;
+outline: none;
+    height: 60px;
+    margin: 10px;
+}
+
+.content-button-silver{
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    font-size: 30px;
+    font-weight: 500;
+    background-color: rgb(167, 166, 166);
+}
+.oranges{
+   background-color: orange;
+   color: #ffff;
+}
+.blackclr{
+    background-color: rgb(45, 45, 45);
+    color: #fff;
+}
+.design{
+    width: 160px;
+    /* text-align: left; */
+    border-radius: 50px 50px 50px 50px;
+}
+.content-footer-name{
+    color: #fff;
+    font-weight: 300;
+  position: relative;
+  left: 150px;
+  top: 15px;
+  font-size: 15px;
+}
